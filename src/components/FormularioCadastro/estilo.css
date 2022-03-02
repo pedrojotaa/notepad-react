@@ -1,0 +1,24 @@
+.formulario-cadastro{
+    box-shadow: 0 0 4px black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 40px;
+    width: 500px;
+}
+
+.formulario-cadastro_titulo{
+    margin-bottom: 10px;
+    max-width: 400px;
+}
+
+.formulario-cadastro_nota{
+    margin-bottom: 10px;
+    max-width: 400px;
+}
+
+.formulario-cadastro_btn{
+    width: 30%;
+    background-color: rgb(77, 77, 146);
+    color: white;
+}
